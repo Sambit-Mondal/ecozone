@@ -1,8 +1,14 @@
+"use client"
+
 import Link from "next/link"
+import { LayoutDashboard } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
+import { useAuth } from "@/contexts/AuthContext"
 
 export function HeroSection() {
+  const { user } = useAuth()
+  const firstName = user ? (user.displayName ?? user.email ?? "").split(/[\s@]/)[0] : null
   return (
     <section className="relative bg-gradient-to-b from-green-50 to-white py-20 md:py-32">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 relative z-10">
@@ -19,7 +25,14 @@ export function HeroSection() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
             <Button size="lg" asChild>
-              <Link href="/signup">Start for Free</Link>
+              {user ? (
+                <Link href="/dashboard" className="gap-2 flex items-center">
+                  <LayoutDashboard className="h-5 w-5" />
+                  Go to Dashboard · {firstName}
+                </Link>
+              ) : (
+                <Link href="/auth">Start for Free</Link>
+              )}
             </Button>
             <Button size="lg" variant="outline" asChild>
               <Link href="/contact">Book a Demo</Link>
