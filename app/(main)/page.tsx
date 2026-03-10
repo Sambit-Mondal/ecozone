@@ -9,6 +9,7 @@ import { StatsSection } from "@/components/stats-section"
 import { TestimonialSection } from "@/components/testimonial-section"
 import { ProductCard } from "@/components/product-card"
 import { BusinessFeatures } from "@/components/business-features"
+import { AuthCTAButton } from "@/components/auth-cta-button"
 
 export default function Home() {
   return (
@@ -214,9 +215,7 @@ export default function Home() {
                 alternatives, Ecozon has the tools you need.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <Button size="lg" asChild>
-                  <Link href="/signup">Get Started for Free</Link>
-                </Button>
+                <AuthCTAButton size="lg" />
                 <Button size="lg" variant="outline" asChild>
                   <Link href="/contact">Book a Demo</Link>
                 </Button>

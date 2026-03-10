@@ -3,13 +3,16 @@
 import Link from "next/link"
 import Image from "next/image"
 import { useState } from "react"
-import { Menu, ShoppingBag, User } from "lucide-react"
+import { LayoutDashboard, Menu, ShoppingBag, User } from "lucide-react"
 
 import { Button } from "@/components/ui/button"
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet"
+import { useAuth } from "@/contexts/AuthContext"
 
 export function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
+  const { user } = useAuth()
+  const firstName = user ? (user.displayName ?? user.email ?? "").split(/[\s@]/)[0] : null
 
   const navItems = [
     { label: "Home", href: "/" },
@@ -54,15 +57,26 @@ export function Navbar() {
                 2
               </span>
             </Link>
-            <Button variant="ghost" size="icon" asChild className="hidden md:flex">
-              <Link href="/account">
-                <User className="h-5 w-5" />
-                <span className="sr-only">Account</span>
-              </Link>
-            </Button>
-            <Button asChild className="hidden md:flex">
-              <Link href="/signup">Sign Up</Link>
-            </Button>
+            {!user && (
+              <Button variant="ghost" size="icon" asChild className="hidden md:flex">
+                <Link href="/account">
+                  <User className="h-5 w-5" />
+                  <span className="sr-only">Account</span>
+                </Link>
+              </Button>
+            )}
+            {user ? (
+              <Button asChild className="hidden md:flex gap-2 bg-[#415444] hover:bg-[#344338]">
+                <Link href="/dashboard">
+                  <LayoutDashboard className="h-4 w-4" />
+                  {firstName}
+                </Link>
+              </Button>
+            ) : (
+              <Button asChild className="hidden md:flex">
+                <Link href="/auth">Sign Up</Link>
+              </Button>
+            )}
             <Sheet>
               <SheetTrigger asChild>
                 <Button variant="ghost" size="icon" className="md:hidden">
@@ -96,12 +110,23 @@ export function Navbar() {
                     ))}
                   </nav>
                   <div className="mt-auto space-y-4">
-                    <Button asChild className="w-full">
-                      <Link href="/signup">Sign Up</Link>
-                    </Button>
-                    <Button variant="outline" asChild className="w-full">
-                      <Link href="/login">Log In</Link>
-                    </Button>
+                    {user ? (
+                      <Button asChild className="w-full gap-2 bg-[#415444] hover:bg-[#344338]">
+                        <Link href="/dashboard">
+                          <LayoutDashboard className="h-4 w-4" />
+                          Dashboard · {firstName}
+                        </Link>
+                      </Button>
+                    ) : (
+                      <>
+                        <Button asChild className="w-full">
+                          <Link href="/auth">Sign Up</Link>
+                        </Button>
+                        <Button variant="outline" asChild className="w-full">
+                          <Link href="/auth">Log In</Link>
+                        </Button>
+                      </>
+                    )}
                   </div>
                 </div>
               </SheetContent>
