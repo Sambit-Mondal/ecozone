@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "name": "Natural Rubber Yoga Mat",
+    "price": 1889,
+    "image": "https://picsum.photos/seed/1-1/600/600",
+    "impact": "Reduces household energy use by 428%",
+    "category": "Home"
+  },
+  {
+    "id": 2,
+    "name": "Upcycled Glass Vase",
+    "price": 1629,
+    "image": "https://picsum.photos/seed/28-2/600/600",
+    "impact": "Reduces household energy use by 307%",
+    "category": "Home"
+  },
+  {
+    "id": 3,
+    "name": "Wool Dryer Balls",
+    "price": 2879,
+    "image": "https://picsum.photos/seed/32-3/600/600",
+    "impact": "Reduces household energy use by 470%",
+    "category": "Home"
+  },
+  {
+    "id": 4,
+    "name": "Recycled Fabric Suitcase",
+    "price": 5229,
+    "image": "https://picsum.photos/seed/21-4/600/600",
+    "impact": "Durable for 427+ years of adventures",
+    "category": "Travel"
+  },
+  {
+    "id": 5,
+    "name": "Cotton Paper Greeting Cards",
+    "price": 449,
+    "image": "https://picsum.photos/seed/56-5/600/600",
+    "impact": "Ink made from 431 soy-based pigments",
+    "category": "Stationery"
+  },
+  {
+    "id": 6,
+    "name": "Cotton Paper Greeting Cards",
+    "price": 249,
+    "image": "https://picsum.photos/seed/77-6/600/600",
+    "impact": "100% compostable packaging",
+    "category": "Stationery"
+  },
+  {
+    "id": 7,
+    "name": "Compostable Coffee Pods",
+    "price": 889,
+    "image": "https://picsum.photos/seed/83-7/600/600",
+    "impact": "Saves 189 liters of water in production",
+    "category": "Kitchen"
+  },
+  {
+    "id": 8,
+    "name": "Bamboo Makeup Brushes",
+    "price": 1389,
+    "image": "https://picsum.photos/seed/91-8/600/600",
+    "impact": "Wild-harvested, supports 84 rural communities",
+    "category": "Beauty"
+  },
+  {
+    "id": 9,
+    "name": "Recycled Polyester Jacket",
+    "price": 2349,
+    "image": "https://picsum.photos/seed/112-9/600/600",
+    "impact": "Ethically made by 270 local artisans",
+    "category": "Fashion"
+  },
+  {
+    "id": 10,
+    "name": "Refillable Fountain Pen",
+    "price": 469,
+    "image": "https://picsum.photos/seed/134-10/600/600",
+    "impact": "Made from 70% post-consumer waste",
+    "category": "Stationery"
+  },
+  {
+    "id": 11,
+    "name": "Compost Starter Kit",
+    "price": 2449,
+    "image": "https://picsum.photos/seed/11-11/600/600",
+    "impact": "Captures 468 liters of rainwater",
+    "category": "Garden"
+  },
+  {
+    "id": 12,
+    "name": "Hemp Gardening Gloves",
+    "price": 2329,
+    "image": "https://picsum.photos/seed/17-12/600/600",
+    "impact": "Supports 139 local pollinator species",
+    "category": "Garden"
+  },
+  {
+    "id": 13,
+    "name": "Linen Curtains",
+    "price": 3739,
+    "image": "https://picsum.photos/seed/32-13/600/600",
+    "impact": "Biodegradable within 420 days",
+    "category": "Home"
+  },
+  {
+    "id": 14,
+    "name": "Natural Aromatherapy Diffuser",
+    "price": 659,
+    "image": "https://picsum.photos/seed/48-14/600/600",
+    "impact": "Non-toxic, improves air quality by 385%",
+    "category": "Wellness"
+  },
+  {
+    "id": 15,
+    "name": "Solar Power Bank",
+    "price": 5899,
+    "image": "https://picsum.photos/seed/74-15/600/600",
+    "impact": "Reduces 233kg CO2 emissions annually",
+    "category": "Electronics"
+  },
+  {
+    "id": 16,
+    "name": "Artisan Ceramic Compost Bin",
+    "price": 1619,
+    "image": "https://picsum.photos/seed/70-16/600/600",
+    "impact": "Saves 112 plastic utensils per year",
+    "category": "Kitchen"
+  },
+  {
+    "id": 17,
+    "name": "Refillable Fountain Pen",
+    "price": 739,
+    "image": "https://picsum.photos/seed/88-17/600/600",
+    "impact": "Saves 132 trees per 1000 units",
+    "category": "Stationery"
+  },
+  {
+    "id": 18,
+    "name": "Wool Dryer Balls",
+    "price": 4059,
+    "image": "https://picsum.photos/seed/169-18/600/600",
+    "impact": "Offsets 427kg of carbon footprint",
+    "category": "Home"
+  },
+  {
+    "id": 19,
+    "name": "Copper Tongue Cleaner",
+    "price": 1619,
+    "image": "https://picsum.photos/seed/172-19/600/600",
+    "impact": "Sourced from 243 sustainable organic farms",
+    "category": "Wellness"
+  },
+  {
+    "id": 20,
+    "name": "Bamboo Socks",
+    "price": 1769,
+    "image": "https://picsum.photos/seed/127-20/600/600",
+    "impact": "Uses 239% less water than conventional cotton",
+    "category": "Fashion"
+  },
+  {
+    "id": 21,
+    "name": "Buckwheat Meditation Pillow",
+    "price": 1679,
+    "image": "https://picsum.photos/seed/1-21/600/600",
+    "impact": "Supports 178 hours of ethical labor",
+    "category": "Wellness"
+  },
+  {
+    "id": 22,
+    "name": "Natural Deodorant Stick",
+    "price": 659,
+    "image": "https://picsum.photos/seed/79-22/600/600",
+    "impact": "Prevents 406 plastic bottles from entering oceans",
+    "category": "Personal Care"
+  },
+  {
+    "id": 23,
+    "name": "Recycled Paper Notebook",
+    "price": 2309,
+    "image": "https://picsum.photos/seed/32-23/600/600",
+    "impact": "Reduces household energy use by 316%",
+    "category": "Home"
+  },
+  {
+    "id": 24,
+    "name": "Cork Wallet",
+    "price": 2839,
+    "image": "https://picsum.photos/seed/49-24/600/600",
+    "impact": "Dyed with 500 natural plant extracts",
+    "category": "Fashion"
+  },
+  {
+    "id": 25,
+    "name": "Upcycled Glass Vase",
+    "price": 789,
+    "image": "https://picsum.photos/seed/96-25/600/600",
+    "impact": "Made from 467% recycled materials",
+    "category": "Home"
+  },
+  {
+    "id": 26,
+    "name": "Sustainable Jute Mat",
+    "price": 1109,
+    "image": "https://picsum.photos/seed/152-26/600/600",
+    "impact": "Plastic-free, 100% bamboo fibers",
+    "category": "Wellness"
+  },
+  {
+    "id": 27,
+    "name": "Vegan Leather Boots",
+    "price": 3339,
+    "image": "https://picsum.photos/seed/84-27/600/600",
+    "impact": "Dyed with 373 natural plant extracts",
+    "category": "Fashion"
+  },
+  {
+    "id": 28,
+    "name": "Recycled Plastic Mouse",
+    "price": 5889,
+    "image": "https://picsum.photos/seed/118-28/600/600",
+    "impact": "Uses 86% less power than standard models",
+    "category": "Electronics"
+  },
+  {
+    "id": 29,
+    "name": "Dry Shampoo Powder",
+    "price": 5419,
+    "image": "https://picsum.photos/seed/51-29/600/600",
+    "impact": "Carbon offset for 23km of travel",
+    "category": "Travel"
+  },
+  {
+    "id": 30,
+    "name": "Cotton Paper Greeting Cards",
+    "price": 349,
+    "image": "https://picsum.photos/seed/134-30/600/600",
+    "impact": "Ink made from 107 soy-based pigments",
+    "category": "Stationery"
+  },
+  {
+    "id": 31,
+    "name": "Pure Shampoo Bar",
+    "price": 359,
+    "image": "https://picsum.photos/seed/63-31/600/600",
+    "impact": "Replaces 120 disposable pads/swabs",
+    "category": "Personal Care"
+  },
+  {
+    "id": 32,
+    "name": "Aromatherapy Diffuser",
+    "price": 2589,
+    "image": "https://picsum.photos/seed/28-32/600/600",
+    "impact": "Supports 114 hours of ethical labor",
+    "category": "Wellness"
+  },
+  {
+    "id": 33,
+    "name": "Wooden Hair Brush",
+    "price": 349,
+    "image": "https://picsum.photos/seed/99-33/600/600",
+    "impact": "Prevents 350 plastic bottles from entering oceans",
+    "category": "Personal Care"
+  },
+  {
+    "id": 34,
+    "name": "Organic Cotton T-shirt",
+    "price": 3139,
+    "image": "https://picsum.photos/seed/49-34/600/600",
+    "impact": "Recyclable at 342% end-of-life",
+    "category": "Fashion"
+  },
+  {
+    "id": 35,
+    "name": "Wool Dryer Balls",
+    "price": 1749,
+    "image": "https://picsum.photos/seed/96-35/600/600",
+    "impact": "Made from 405% recycled materials",
+    "category": "Home"
+  },
+  {
+    "id": 36,
+    "name": "Collapsible Water Bottle",
+    "price": 2439,
+    "image": "https://picsum.photos/seed/26-36/600/600",
+    "impact": "Lightweight design reduces fuel burn by 480%",
+    "category": "Travel"
+  },
+  {
+    "id": 37,
+    "name": "Deluxe Energy-efficient LED Bulb",
+    "price": 2869,
+    "image": "https://picsum.photos/seed/102-37/600/600",
+    "impact": "Uses 140% less power than standard models",
+    "category": "Electronics"
+  },
+  {
+    "id": 38,
+    "name": "Coconut Fiber Scrubber",
+    "price": 779,
+    "image": "https://picsum.photos/seed/94-38/600/600",
+    "impact": "Replaces 452 single-use wraps",
+    "category": "Kitchen"
+  },
+  {
+    "id": 39,
+    "name": "Hemp Eye Mask",
+    "price": 2579,
+    "image": "https://picsum.photos/seed/172-39/600/600",
+    "impact": "Plastic-free, 100% bamboo fibers",
+    "category": "Wellness"
+  },
+  {
+    "id": 40,
+    "name": "Heirloom Seed Pack",
+    "price": 2239,
+    "image": "https://picsum.photos/seed/124-40/600/600",
+    "impact": "Supports 62 local pollinator species",
+    "category": "Garden"
+  },
+  {
+    "id": 41,
+    "name": "Shampoo Bar",
+    "price": 1119,
+    "image": "https://picsum.photos/seed/63-41/600/600",
+    "impact": "Replaces 95 disposable pads/swabs",
+    "category": "Personal Care"
+  },
+  {
+    "id": 42,
+    "name": "Menstrual Cup",
+    "price": 679,
+    "image": "https://picsum.photos/seed/79-42/600/600",
+    "impact": "Saves 400 liters of water compared to liquid soap",
+    "category": "Personal Care"
+  },
+  {
+    "id": 43,
+    "name": "Eco Organic Cotton Pads",
+    "price": 919,
+    "image": "https://picsum.photos/seed/99-43/600/600",
+    "impact": "Saves 120 liters of water compared to liquid soap",
+    "category": "Personal Care"
+  },
+  {
+    "id": 44,
+    "name": "Microfiber Travel Towel",
+    "price": 3749,
+    "image": "https://picsum.photos/seed/21-44/600/600",
+    "impact": "Durable for 223+ years of adventures",
+    "category": "Travel"
+  },
+  {
+    "id": 45,
+    "name": "Premium Solar Camping Lantern",
+    "price": 3619,
+    "image": "https://picsum.photos/seed/24-45/600/600",
+    "impact": "Durable for 272+ years of adventures",
+    "category": "Travel"
+  },
+  {
+    "id": 46,
+    "name": "Eco Natural Rubber Eraser",
+    "price": 259,
+    "image": "https://picsum.photos/seed/77-46/600/600",
+    "impact": "Saves 381 trees per 1000 units",
+    "category": "Stationery"
+  },
+  {
+    "id": 47,
+    "name": "Bamboo Toothbrush",
+    "price": 1009,
+    "image": "https://picsum.photos/seed/159-47/600/600",
+    "impact": "100% chemical-free and organic",
+    "category": "Personal Care"
+  },
+  {
+    "id": 48,
+    "name": "Pure Organic Herbal Tea",
+    "price": 1229,
+    "image": "https://picsum.photos/seed/169-48/600/600",
+    "impact": "Supports 252 hours of ethical labor",
+    "category": "Wellness"
+  },
+  {
+    "id": 49,
+    "name": "Bamboo Bath Mat",
+    "price": 4309,
+    "image": "https://picsum.photos/seed/172-49/600/600",
+    "impact": "Made from 297% recycled materials",
+    "category": "Home"
+  },
+  {
+    "id": 50,
+    "name": "Hemp Gardening Gloves",
+    "price": 819,
+    "image": "https://picsum.photos/seed/124-50/600/600",
+    "impact": "100% peat-free and sustainable",
+    "category": "Garden"
+  },
+  {
+    "id": 51,
+    "name": "Natural Aromatherapy Diffuser",
+    "price": 1459,
+    "image": "https://picsum.photos/seed/1-51/600/600",
+    "impact": "Plastic-free, 100% bamboo fibers",
+    "category": "Wellness"
+  },
+  {
+    "id": 52,
+    "name": "Premium Microfiber Travel Towel",
+    "price": 5009,
+    "image": "https://picsum.photos/seed/7-52/600/600",
+    "impact": "Carbon offset for 117km of travel",
+    "category": "Travel"
+  },
+  {
+    "id": 53,
+    "name": "Premium Self-Watering Spike",
+    "price": 709,
+    "image": "https://picsum.photos/seed/29-53/600/600",
+    "impact": "Reduces landfill waste by 209kg/year",
+    "category": "Garden"
+  },
+  {
+    "id": 54,
+    "name": "Upcycled Denim Tote",
+    "price": 799,
+    "image": "https://picsum.photos/seed/49-54/600/600",
+    "impact": "Dyed with 85 natural plant extracts",
+    "category": "Fashion"
+  },
+  {
+    "id": 55,
+    "name": "Hemp Backpack",
+    "price": 4079,
+    "image": "https://picsum.photos/seed/61-55/600/600",
+    "impact": "Dyed with 20 natural plant extracts",
+    "category": "Fashion"
+  },
+  {
+    "id": 56,
+    "name": "Weighted Blanket",
+    "price": 1089,
+    "image": "https://picsum.photos/seed/152-56/600/600",
+    "impact": "Supports 67 hours of ethical labor",
+    "category": "Wellness"
+  },
+  {
+    "id": 57,
+    "name": "Eco Organic Cotton Pads",
+    "price": 439,
+    "image": "https://picsum.photos/seed/159-57/600/600",
+    "impact": "Replaces 350 disposable pads/swabs",
+    "category": "Personal Care"
+  },
+  {
+    "id": 58,
+    "name": "Pure Heirloom Seed Pack",
+    "price": 2339,
+    "image": "https://picsum.photos/seed/95-58/600/600",
+    "impact": "Captures 186 liters of rainwater",
+    "category": "Garden"
+  },
+  {
+    "id": 59,
+    "name": "Premium Stainless Steel Lunchbox",
+    "price": 639,
+    "image": "https://picsum.photos/seed/51-59/600/600",
+    "impact": "Durable for 297+ years of adventures",
+    "category": "Travel"
+  },
+  {
+    "id": 60,
+    "name": "Natural Rubber Yoga Mat",
+    "price": 2339,
+    "image": "https://picsum.photos/seed/180-60/600/600",
+    "impact": "Made from 193% recycled materials",
+    "category": "Home"
+  },
+  {
+    "id": 61,
+    "name": "Eucalyptus Bath Salt",
+    "price": 419,
+    "image": "https://picsum.photos/seed/63-61/600/600",
+    "impact": "Replaces 180 disposable pads/swabs",
+    "category": "Personal Care"
+  },
+  {
+    "id": 62,
+    "name": "Hemp Dish Towels",
+    "price": 589,
+    "image": "https://picsum.photos/seed/14-62/600/600",
+    "impact": "Saves 66 plastic utensils per year",
+    "category": "Kitchen"
+  },
+  {
+    "id": 63,
+    "name": "Bamboo Cutlery Set",
+    "price": 589,
+    "image": "https://picsum.photos/seed/22-63/600/600",
+    "impact": "Saves 158 liters of water in production",
+    "category": "Kitchen"
+  },
+  {
+    "id": 64,
+    "name": "Agro-waste Notebook",
+    "price": 259,
+    "image": "https://picsum.photos/seed/40-64/600/600",
+    "impact": "100% compostable packaging",
+    "category": "Stationery"
+  },
+  {
+    "id": 65,
+    "name": "Vegan Lip Balm",
+    "price": 1479,
+    "image": "https://picsum.photos/seed/57-65/600/600",
+    "impact": "Wild-harvested, supports 133 rural communities",
+    "category": "Beauty"
+  },
+  {
+    "id": 66,
+    "name": "Shampoo Bar",
+    "price": 769,
+    "image": "https://picsum.photos/seed/144-66/600/600",
+    "impact": "Saves 172 liters of water compared to liquid soap",
+    "category": "Personal Care"
+  },
+  {
+    "id": 67,
+    "name": "Buckwheat Meditation Pillow",
+    "price": 2499,
+    "image": "https://picsum.photos/seed/164-67/600/600",
+    "impact": "Plastic-free, 100% bamboo fibers",
+    "category": "Wellness"
+  },
+  {
+    "id": 68,
+    "name": "Shampoo Bar",
+    "price": 999,
+    "image": "https://picsum.photos/seed/174-68/600/600",
+    "impact": "100% chemical-free and organic",
+    "category": "Personal Care"
+  },
+  {
+    "id": 69,
+    "name": "Handmade Bamboo Travel Utensils",
+    "price": 1849,
+    "image": "https://picsum.photos/seed/51-69/600/600",
+    "impact": "Replaces 156 travel-size plastic bottles",
+    "category": "Travel"
+  },
+  {
+    "id": 70,
+    "name": "Crystal Infused Bottle",
+    "price": 2419,
+    "image": "https://picsum.photos/seed/180-70/600/600",
+    "impact": "Non-toxic, improves air quality by 226%",
+    "category": "Wellness"
+  },
+  {
+    "id": 71,
+    "name": "Artisan Ceramic Compost Bin",
+    "price": 769,
+    "image": "https://picsum.photos/seed/10-71/600/600",
+    "impact": "Replaces 124 single-use wraps",
+    "category": "Kitchen"
+  },
+  {
+    "id": 72,
+    "name": "Cork Coasters",
+    "price": 1469,
+    "image": "https://picsum.photos/seed/28-72/600/600",
+    "impact": "Biodegradable within 479 days",
+    "category": "Home"
+  },
+  {
+    "id": 73,
+    "name": "Hemp Passport Holder",
+    "price": 1859,
+    "image": "https://picsum.photos/seed/15-73/600/600",
+    "impact": "Durable for 354+ years of adventures",
+    "category": "Travel"
+  },
+  {
+    "id": 74,
+    "name": "Beeswax Food Wraps",
+    "price": 1179,
+    "image": "https://picsum.photos/seed/41-74/600/600",
+    "impact": "Reduces kitchen waste by 302%",
+    "category": "Kitchen"
+  },
+  {
+    "id": 75,
+    "name": "Cork Wallet",
+    "price": 1019,
+    "image": "https://picsum.photos/seed/61-75/600/600",
+    "impact": "Ethically made by 256 local artisans",
+    "category": "Fashion"
+  },
+  {
+    "id": 76,
+    "name": "Bamboo Keyboard",
+    "price": 2619,
+    "image": "https://picsum.photos/seed/87-76/600/600",
+    "impact": "Extends device life by 336 years",
+    "category": "Electronics"
+  },
+  {
+    "id": 77,
+    "name": "Silicone Storage Bags",
+    "price": 599,
+    "image": "https://picsum.photos/seed/83-77/600/600",
+    "impact": "Saves 320 plastic utensils per year",
+    "category": "Kitchen"
+  },
+  {
+    "id": 78,
+    "name": "Wood Grain Earbuds",
+    "price": 4459,
+    "image": "https://picsum.photos/seed/118-78/600/600",
+    "impact": "Uses 69% less power than standard models",
+    "category": "Electronics"
+  },
+  {
+    "id": 79,
+    "name": "Glass Herb Jars",
+    "price": 1699,
+    "image": "https://picsum.photos/seed/101-79/600/600",
+    "impact": "Replaces 493 single-use wraps",
+    "category": "Kitchen"
+  },
+  {
+    "id": 80,
+    "name": "Eco Natural Incense Cones",
+    "price": 2729,
+    "image": "https://picsum.photos/seed/180-80/600/600",
+    "impact": "Non-toxic, improves air quality by 143%",
+    "category": "Wellness"
+  },
+  {
+    "id": 81,
+    "name": "Bamboo Toothbrush",
+    "price": 499,
+    "image": "https://picsum.photos/seed/63-81/600/600",
+    "impact": "Replaces 301 disposable pads/swabs",
+    "category": "Personal Care"
+  },
+  {
+    "id": 82,
+    "name": "Natural Deodorant Stick",
+    "price": 539,
+    "image": "https://picsum.photos/seed/79-82/600/600",
+    "impact": "100% chemical-free and organic",
+    "category": "Personal Care"
+  },
+  {
+    "id": 83,
+    "name": "Bamboo Essential Oil Box",
+    "price": 2769,
+    "image": "https://picsum.photos/seed/32-83/600/600",
+    "impact": "Supports 97 hours of ethical labor",
+    "category": "Wellness"
+  },
+  {
+    "id": 84,
+    "name": "Eco Solar Power Bank",
+    "price": 5739,
+    "image": "https://picsum.photos/seed/59-84/600/600",
+    "impact": "Uses 315% less power than standard models",
+    "category": "Electronics"
+  },
+  {
+    "id": 85,
+    "name": "Pure Heirloom Seed Pack",
+    "price": 2229,
+    "image": "https://picsum.photos/seed/54-85/600/600",
+    "impact": "Reduces landfill waste by 407kg/year",
+    "category": "Garden"
+  },
+  {
+    "id": 86,
+    "name": "Natural Rubber Eraser",
+    "price": 179,
+    "image": "https://picsum.photos/seed/77-86/600/600",
+    "impact": "Saves 43 trees per 1000 units",
+    "category": "Stationery"
+  },
+  {
+    "id": 87,
+    "name": "Premium Silk Dental Floss",
+    "price": 1049,
+    "image": "https://picsum.photos/seed/159-87/600/600",
+    "impact": "Replaces 145 disposable pads/swabs",
+    "category": "Personal Care"
+  },
+  {
+    "id": 88,
+    "name": "Upcycled Denim Tote",
+    "price": 2279,
+    "image": "https://picsum.photos/seed/98-88/600/600",
+    "impact": "Ethically made by 218 local artisans",
+    "category": "Fashion"
+  },
+  {
+    "id": 89,
+    "name": "Pure Shampoo Bar",
+    "price": 579,
+    "image": "https://picsum.photos/seed/185-89/600/600",
+    "impact": "Prevents 269 plastic bottles from entering oceans",
+    "category": "Personal Care"
+  },
+  {
+    "id": 90,
+    "name": "Aromatherapy Diffuser",
+    "price": 2449,
+    "image": "https://picsum.photos/seed/180-90/600/600",
+    "impact": "Plastic-free, 100% bamboo fibers",
+    "category": "Wellness"
+  },
+  {
+    "id": 91,
+    "name": "Deluxe Clay Face Mask",
+    "price": 1409,
+    "image": "https://picsum.photos/seed/13-91/600/600",
+    "impact": "Refillable glass saves 150 plastic jars",
+    "category": "Beauty"
+  },
+  {
+    "id": 92,
+    "name": "Beeswax Food Wraps",
+    "price": 1669,
+    "image": "https://picsum.photos/seed/14-92/600/600",
+    "impact": "Saves 191 plastic utensils per year",
+    "category": "Kitchen"
+  },
+  {
+    "id": 93,
+    "name": "Bee Hotel",
+    "price": 1979,
+    "image": "https://picsum.photos/seed/29-93/600/600",
+    "impact": "Reduces landfill waste by 449kg/year",
+    "category": "Garden"
+  },
+  {
+    "id": 94,
+    "name": "Upcycled Glass Vase",
+    "price": 3079,
+    "image": "https://picsum.photos/seed/48-94/600/600",
+    "impact": "Reduces household energy use by 261%",
+    "category": "Home"
+  },
+  {
+    "id": 95,
+    "name": "Glass Herb Jars",
+    "price": 379,
+    "image": "https://picsum.photos/seed/52-95/600/600",
+    "impact": "Saves 487 plastic utensils per year",
+    "category": "Kitchen"
+  },
+  {
+    "id": 96,
+    "name": "Plantable Seed Pens",
+    "price": 519,
+    "image": "https://picsum.photos/seed/77-96/600/600",
+    "impact": "Saves 44 trees per 1000 units",
+    "category": "Stationery"
+  },
+  {
+    "id": 97,
+    "name": "Organic Cotton T-shirt",
+    "price": 2879,
+    "image": "https://picsum.photos/seed/84-97/600/600",
+    "impact": "Recyclable at 145% end-of-life",
+    "category": "Fashion"
+  },
+  {
+    "id": 98,
+    "name": "Organic Fertilizer",
+    "price": 2099,
+    "image": "https://picsum.photos/seed/95-98/600/600",
+    "impact": "100% peat-free and sustainable",
+    "category": "Garden"
+  },
+  {
+    "id": 99,
+    "name": "Pure Natural Organic Cotton T-shirt",
+    "price": 2849,
+    "image": "https://picsum.photos/seed/112-99/600/600",
+    "impact": "Ethically made by 189 local artisans",
+    "category": "Fashion"
+  },
+  {
+    "id": 100,
+    "name": "Buckwheat Meditation Pillow",
+    "price": 1839,
+    "image": "https://picsum.photos/seed/180-100/600/600",
+    "impact": "Supports 159 hours of ethical labor",
+    "category": "Wellness"
+  },
+  {
+    "id": 101,
+    "name": "Organic Cotton Bedding",
+    "price": 1689,
+    "image": "https://picsum.photos/seed/1-101/600/600",
+    "impact": "Biodegradable within 35 days",
+    "category": "Home"
+  },
+  {
+    "id": 102,
+    "name": "Artisan Shampoo Bar",
+    "price": 639,
+    "image": "https://picsum.photos/seed/79-102/600/600",
+    "impact": "Saves 397 liters of water compared to liquid soap",
+    "category": "Personal Care"
+  },
+  {
+    "id": 103,
+    "name": "Refillable Fountain Pen",
+    "price": 159,
+    "image": "https://picsum.photos/seed/30-103/600/600",
+    "impact": "100% compostable packaging",
+    "category": "Stationery"
+  },
+  {
+    "id": 104,
+    "name": "Premium Self-Watering Spike",
+    "price": 1789,
+    "image": "https://picsum.photos/seed/42-104/600/600",
+    "impact": "Reduces landfill waste by 454kg/year",
+    "category": "Garden"
+  },
+  {
+    "id": 105,
+    "name": "Natural Rubber Yoga Mat",
+    "price": 3859,
+    "image": "https://picsum.photos/seed/96-105/600/600",
+    "impact": "Offsets 491kg of carbon footprint",
+    "category": "Home"
+  },
+  {
+    "id": 106,
+    "name": "Eco Natural Rubber Eraser",
+    "price": 369,
+    "image": "https://picsum.photos/seed/77-106/600/600",
+    "impact": "100% compostable packaging",
+    "category": "Stationery"
+  },
+  {
+    "id": 107,
+    "name": "Bamboo Keyboard",
+    "price": 3139,
+    "image": "https://picsum.photos/seed/102-107/600/600",
+    "impact": "Extends device life by 285 years",
+    "category": "Electronics"
+  },
+  {
+    "id": 108,
+    "name": "Pure Heirloom Seed Pack",
+    "price": 1909,
+    "image": "https://picsum.photos/seed/95-108/600/600",
+    "impact": "Supports 79 local pollinator species",
+    "category": "Garden"
+  },
+  {
+    "id": 109,
+    "name": "Safety Razor",
+    "price": 1099,
+    "image": "https://picsum.photos/seed/185-109/600/600",
+    "impact": "100% chemical-free and organic",
+    "category": "Personal Care"
+  },
+  {
+    "id": 110,
+    "name": "Plantable Seed Pens",
+    "price": 699,
+    "image": "https://picsum.photos/seed/134-110/600/600",
+    "impact": "Ink made from 202 soy-based pigments",
+    "category": "Stationery"
+  },
+  {
+    "id": 111,
+    "name": "Recycled Fabric Suitcase",
+    "price": 4049,
+    "image": "https://picsum.photos/seed/4-111/600/600",
+    "impact": "Carbon offset for 146km of travel",
+    "category": "Travel"
+  },
+  {
+    "id": 112,
+    "name": "Eco-friendly Phone Case",
+    "price": 7249,
+    "image": "https://picsum.photos/seed/31-112/600/600",
+    "impact": "Reduces 13kg CO2 emissions annually",
+    "category": "Electronics"
+  },
+  {
+    "id": 113,
+    "name": "Plantable Seed Pens",
+    "price": 579,
+    "image": "https://picsum.photos/seed/30-113/600/600",
+    "impact": "Saves 143 trees per 1000 units",
+    "category": "Stationery"
+  },
+  {
+    "id": 114,
+    "name": "Dry Shampoo Powder",
+    "price": 4059,
+    "image": "https://picsum.photos/seed/21-114/600/600",
+    "impact": "Lightweight design reduces fuel burn by 313%",
+    "category": "Travel"
+  },
+  {
+    "id": 115,
+    "name": "Eco-friendly Phone Case",
+    "price": 6589,
+    "image": "https://picsum.photos/seed/74-115/600/600",
+    "impact": "Sourced from 168% conflict-free minerals",
+    "category": "Electronics"
+  },
+  {
+    "id": 116,
+    "name": "Premium Self-Watering Spike",
+    "price": 939,
+    "image": "https://picsum.photos/seed/69-116/600/600",
+    "impact": "Supports 359 local pollinator species",
+    "category": "Garden"
+  },
+  {
+    "id": 117,
+    "name": "Cast Iron Skillet",
+    "price": 549,
+    "image": "https://picsum.photos/seed/83-117/600/600",
+    "impact": "Reduces kitchen waste by 137%",
+    "category": "Kitchen"
+  },
+  {
+    "id": 118,
+    "name": "Stone Paper Journal",
+    "price": 509,
+    "image": "https://picsum.photos/seed/103-118/600/600",
+    "impact": "100% compostable packaging",
+    "category": "Stationery"
+  },
+  {
+    "id": 119,
+    "name": "Microfiber Travel Towel",
+    "price": 529,
+    "image": "https://picsum.photos/seed/51-119/600/600",
+    "impact": "Durable for 12+ years of adventures",
+    "category": "Travel"
+  },
+  {
+    "id": 120,
+    "name": "Bamboo Toothbrush",
+    "price": 1149,
+    "image": "https://picsum.photos/seed/192-120/600/600",
+    "impact": "100% chemical-free and organic",
+    "category": "Personal Care"
+  },
+  {
+    "id": 121,
+    "name": "Ethical Wool Sweater",
+    "price": 3559,
+    "image": "https://picsum.photos/seed/16-121/600/600",
+    "impact": "Recyclable at 145% end-of-life",
+    "category": "Fashion"
+  },
+  {
+    "id": 122,
+    "name": "Deluxe Bamboo Cutlery Set",
+    "price": 1119,
+    "image": "https://picsum.photos/seed/14-122/600/600",
+    "impact": "Reduces kitchen waste by 17%",
+    "category": "Kitchen"
+  },
+  {
+    "id": 123,
+    "name": "Stainless Steel Lunchbox",
+    "price": 2179,
+    "image": "https://picsum.photos/seed/15-123/600/600",
+    "impact": "Carbon offset for 294km of travel",
+    "category": "Travel"
+  },
+  {
+    "id": 124,
+    "name": "Sugar Body Scrub",
+    "price": 259,
+    "image": "https://picsum.photos/seed/44-124/600/600",
+    "impact": "Refillable glass saves 81 plastic jars",
+    "category": "Beauty"
+  },
+  {
+    "id": 125,
+    "name": "Reclaimed Wood Shelf",
+    "price": 1969,
+    "image": "https://picsum.photos/seed/96-125/600/600",
+    "impact": "Made from 292% recycled materials",
+    "category": "Home"
+  },
+  {
+    "id": 126,
+    "name": "Artisan Deluxe Linen Curtains",
+    "price": 1029,
+    "image": "https://picsum.photos/seed/152-126/600/600",
+    "impact": "Offsets 447kg of carbon footprint",
+    "category": "Home"
+  },
+  {
+    "id": 127,
+    "name": "Recycled Fabric Suitcase",
+    "price": 1799,
+    "image": "https://picsum.photos/seed/36-127/600/600",
+    "impact": "Replaces 484 travel-size plastic bottles",
+    "category": "Travel"
+  },
+  {
+    "id": 128,
+    "name": "Biodegradable Pots",
+    "price": 2889,
+    "image": "https://picsum.photos/seed/95-128/600/600",
+    "impact": "Captures 425 liters of rainwater",
+    "category": "Garden"
+  },
+  {
+    "id": 129,
+    "name": "Artisan Ceramic Compost Bin",
+    "price": 1219,
+    "image": "https://picsum.photos/seed/101-129/600/600",
+    "impact": "Replaces 147 single-use wraps",
+    "category": "Kitchen"
+  },
+  {
+    "id": 130,
+    "name": "Aromatherapy Diffuser",
+    "price": 1379,
+    "image": "https://picsum.photos/seed/180-130/600/600",
+    "impact": "Sourced from 43 sustainable organic farms",
+    "category": "Wellness"
+  },
+  {
+    "id": 131,
+    "name": "Deluxe Natural Organic Cotton T-shirt",
+    "price": 4329,
+    "image": "https://picsum.photos/seed/16-131/600/600",
+    "impact": "Uses 143% less water than conventional cotton",
+    "category": "Fashion"
+  },
+  {
+    "id": 132,
+    "name": "Compost Starter Kit",
+    "price": 1749,
+    "image": "https://picsum.photos/seed/17-132/600/600",
+    "impact": "Captures 463 liters of rainwater",
+    "category": "Garden"
+  },
+  {
+    "id": 133,
+    "name": "Organic Herbal Tea",
+    "price": 2339,
+    "image": "https://picsum.photos/seed/32-133/600/600",
+    "impact": "Non-toxic, improves air quality by 479%",
+    "category": "Wellness"
+  },
+  {
+    "id": 134,
+    "name": "Vegan Lip Balm",
+    "price": 699,
+    "image": "https://picsum.photos/seed/44-134/600/600",
+    "impact": "Cruelty-free and 463% vegan ingredients",
+    "category": "Beauty"
+  },
+  {
+    "id": 135,
+    "name": "Silk Dental Floss",
+    "price": 1069,
+    "image": "https://picsum.photos/seed/129-135/600/600",
+    "impact": "Saves 255 liters of water compared to liquid soap",
+    "category": "Personal Care"
+  },
+  {
+    "id": 136,
+    "name": "Sugar Body Scrub",
+    "price": 1219,
+    "image": "https://picsum.photos/seed/65-136/600/600",
+    "impact": "Refillable glass saves 424 plastic jars",
+    "category": "Beauty"
+  },
+  {
+    "id": 137,
+    "name": "Artisan Ceramic Compost Bin",
+    "price": 2349,
+    "image": "https://picsum.photos/seed/83-137/600/600",
+    "impact": "Reduces kitchen waste by 458%",
+    "category": "Kitchen"
+  },
+  {
+    "id": 138,
+    "name": "Bamboo Travel Utensils",
+    "price": 2449,
+    "image": "https://picsum.photos/seed/45-138/600/600",
+    "impact": "Carbon offset for 358km of travel",
+    "category": "Travel"
+  },
+  {
+    "id": 139,
+    "name": "Refillable Lipstick",
+    "price": 499,
+    "image": "https://picsum.photos/seed/107-139/600/600",
+    "impact": "Cruelty-free and 461% vegan ingredients",
+    "category": "Beauty"
+  },
+  {
+    "id": 140,
+    "name": "Deluxe Bamboo Makeup Brushes",
+    "price": 449,
+    "image": "https://picsum.photos/seed/122-140/600/600",
+    "impact": "Zero-waste packaging design",
+    "category": "Beauty"
+  },
+  {
+    "id": 141,
+    "name": "Reclaimed Wood Shelf",
+    "price": 2639,
+    "image": "https://picsum.photos/seed/1-141/600/600",
+    "impact": "Reduces household energy use by 52%",
+    "category": "Home"
+  },
+  {
+    "id": 142,
+    "name": "Premium Organic Cotton Bedding",
+    "price": 3269,
+    "image": "https://picsum.photos/seed/28-142/600/600",
+    "impact": "Biodegradable within 134 days",
+    "category": "Home"
+  },
+  {
+    "id": 143,
+    "name": "Collapsible Water Bottle",
+    "price": 2219,
+    "image": "https://picsum.photos/seed/15-143/600/600",
+    "impact": "Replaces 434 travel-size plastic bottles",
+    "category": "Travel"
+  },
+  {
+    "id": 144,
+    "name": "Bamboo Cutlery Set",
+    "price": 1049,
+    "image": "https://picsum.photos/seed/41-144/600/600",
+    "impact": "Saves 66 liters of water in production",
+    "category": "Kitchen"
+  },
+  {
+    "id": 145,
+    "name": "Premium Stainless Steel Lunchbox",
+    "price": 4319,
+    "image": "https://picsum.photos/seed/24-145/600/600",
+    "impact": "Carbon offset for 371km of travel",
+    "category": "Travel"
+  },
+  {
+    "id": 146,
+    "name": "Bamboo Socks",
+    "price": 4369,
+    "image": "https://picsum.photos/seed/73-146/600/600",
+    "impact": "Ethically made by 498 local artisans",
+    "category": "Fashion"
+  },
+  {
+    "id": 147,
+    "name": "Artisan Deluxe Linen Curtains",
+    "price": 4759,
+    "image": "https://picsum.photos/seed/164-147/600/600",
+    "impact": "Biodegradable within 448 days",
+    "category": "Home"
+  },
+  {
+    "id": 148,
+    "name": "Compost Starter Kit",
+    "price": 2729,
+    "image": "https://picsum.photos/seed/95-148/600/600",
+    "impact": "100% peat-free and sustainable",
+    "category": "Garden"
+  },
+  {
+    "id": 149,
+    "name": "Mineral Sunscreen Stick",
+    "price": 319,
+    "image": "https://picsum.photos/seed/107-149/600/600",
+    "impact": "Zero-waste packaging design",
+    "category": "Beauty"
+  },
+  {
+    "id": 150,
+    "name": "Recycled Fabric Suitcase",
+    "price": 2499,
+    "image": "https://picsum.photos/seed/64-150/600/600",
+    "impact": "Carbon offset for 237km of travel",
+    "category": "Travel"
+  }
+]

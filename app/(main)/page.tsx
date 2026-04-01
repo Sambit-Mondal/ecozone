@@ -10,8 +10,10 @@ import { TestimonialSection } from "@/components/testimonial-section"
 import { ProductCard } from "@/components/product-card"
 import { BusinessFeatures } from "@/components/business-features"
 import { AuthCTAButton } from "@/components/auth-cta-button"
+import sustainableProducts from "@/sustainable_products.json"
 
 export default function Home() {
+  const previewProducts = sustainableProducts.slice(0, 3)
   return (
     <div className="flex flex-col min-h-screen">
       <HeroSection />
@@ -119,30 +121,8 @@ export default function Home() {
         </div>
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {[
-            {
-              name: "Bamboo Cutlery Set",
-              price: 499,
-              image: "/placeholder.svg?height=300&width=300",
-              impact: "Saves 120 plastic utensils per year",
-              category: "Kitchen",
-            },
-            {
-              name: "Solar Power Bank",
-              price: 1299,
-              image: "/placeholder.svg?height=300&width=300",
-              impact: "Reduces 15kg CO₂ emissions annually",
-              category: "Electronics",
-            },
-            {
-              name: "Compost Starter Kit",
-              price: 899,
-              image: "/placeholder.svg?height=300&width=300",
-              impact: "Diverts 200kg waste from landfills yearly",
-              category: "Garden",
-            },
-          ].map((product, i) => (
-            <ProductCard key={i} product={product} />
+          {previewProducts.map((product) => (
+            <ProductCard key={product.id} product={product} />
           ))}
         </div>
 
