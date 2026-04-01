@@ -7,75 +7,14 @@ import { Card, CardContent, CardFooter, CardHeader } from "@/components/ui/card"
 import { Input } from "@/components/ui/input"
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs"
 import { ProductCard } from "@/components/product-card"
+import sustainableProducts from "@/sustainable_products.json"
 
 export default function MarketplacePage() {
-  const categories = ["All Products", "Kitchen", "Home", "Personal Care", "Garden", "Electronics", "Fashion"]
+  // Extract unique categories from the products
+  const uniqueCategories = Array.from(new Set(sustainableProducts.map((p) => p.category)))
+  const categories = ["All Products", ...uniqueCategories]
 
-  const products = [
-    {
-      name: "Bamboo Cutlery Set",
-      price: 499,
-      image: "/placeholder.svg?height=300&width=300",
-      impact: "Saves 120 plastic utensils per year",
-      category: "Kitchen",
-    },
-    {
-      name: "Solar Power Bank",
-      price: 1299,
-      image: "/placeholder.svg?height=300&width=300",
-      impact: "Reduces 15kg CO₂ emissions annually",
-      category: "Electronics",
-    },
-    {
-      name: "Compost Starter Kit",
-      price: 899,
-      image: "/placeholder.svg?height=300&width=300",
-      impact: "Diverts 200kg waste from landfills yearly",
-      category: "Garden",
-    },
-    {
-      name: "Reusable Cotton Produce Bags",
-      price: 349,
-      image: "/placeholder.svg?height=300&width=300",
-      impact: "Replaces 100+ plastic bags annually",
-      category: "Kitchen",
-    },
-    {
-      name: "Bamboo Toothbrush Set",
-      price: 249,
-      image: "/placeholder.svg?height=300&width=300",
-      impact: "Biodegradable alternative to plastic",
-      category: "Personal Care",
-    },
-    {
-      name: "Recycled Paper Notebook",
-      price: 199,
-      image: "/placeholder.svg?height=300&width=300",
-      impact: "Made from 100% post-consumer waste",
-      category: "Home",
-    },
-    {
-      name: "Organic Cotton T-shirt",
-      price: 799,
-      image: "/placeholder.svg?height=300&width=300",
-      impact: "Uses 91% less water than conventional cotton",
-      category: "Fashion",
-    },
-    {
-      name: "Stainless Steel Water Bottle",
-      price: 599,
-      image: "/placeholder.svg?height=300&width=300",
-      impact: "Replaces 167 plastic bottles yearly",
-      category: "Personal Care",
-    },
-    {
-      name: "LED Solar Garden Lights",
-      price: 1499,
-      image: "/placeholder.svg?height=300&width=300",
-      impact: "Zero energy costs, 100% renewable",
-      category: "Garden",
-    },
-  ]
+  const products = sustainableProducts
 
   return (
     <div className="flex flex-col min-h-screen">
@@ -154,8 +93,8 @@ export default function MarketplacePage() {
             <TabsContent key={category} value={category} className="mt-6">
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                 {(category === "All Products" ? products : products.filter((p) => p.category === category)).map(
-                  (product, i) => (
-                    <ProductCard key={i} product={product} />
+                  (product) => (
+                    <ProductCard key={product.id} product={product} />
                   ),
                 )}
               </div>
